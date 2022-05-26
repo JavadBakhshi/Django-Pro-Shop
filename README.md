@@ -37,7 +37,8 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 * 10 - pip install django-storages
 * 11 - pip install djangorestframework-simplejwt
 * 12 - pip install pillow
-* 13 - python manage.py runserver
+* 13 - pip install whitenoise
+* 14 - python manage.py runserver
 
 # Install react modules
 * 1 - Download node
